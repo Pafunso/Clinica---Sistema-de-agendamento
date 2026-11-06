@@ -1,2 +1,5 @@
-# Clinica---Sistema-de-agendamento
-Sistema de agendamento para clínicas
+# Clinica - Sistema de agendamento - V1
+
+Sistema de agendamento para clínicas;
+
+
