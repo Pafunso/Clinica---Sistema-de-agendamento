@@ -16,9 +16,6 @@ O projeto foi empacotado para exigir o mínimo de conhecimento técnico por part
 
 1. Clonar e Configurar
 
-# Clone o repositório
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-cd NOME_DO_REPOSITORIO
 
 # Configure as variáveis de ambiente
 cp .env.example .env
